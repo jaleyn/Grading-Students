@@ -1,1 +1,1 @@
-# Grading-Students
+# Grading-Students This program rounds student grades according to specific rules: if a grade is less than 38, it remains unchanged; otherwise, it rounds up to the next multiple of 5 if the difference is less than 3. The gradingStudents function processes each grade in the list and returns a new list of adjusted grades.
